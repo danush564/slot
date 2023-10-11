@@ -107,13 +107,12 @@ Execute the program using runserver command.
 <tr>
 <td align="center">5.</td>
 <td align="center">19MA201</td>
-<td>Calculus and Matrix Algebra (MAT)</td>
-</tr>
+    <td>Calculus and Matrix Algebra (MAT)v    
+    </td>
+    </tr>
+  
 ## OUTPUT
 ![Screenshot 2023-10-07 093850](https://github.com/danush564/slot/assets/98585166/a3f2caa3-7665-4545-8c46-843fb9c233c6)
-
-
-## HTML VALIDATOR
 
 
 ## RESULT
