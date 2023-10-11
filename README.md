@@ -31,11 +31,11 @@ Execute the program using runserver command.
 </head>
 <body>
 <center>
-<img src="c:\Users\Dhanush G R\Downloads\logo.png" height="100" width="540">
+<img src="c:\Users\Danush S\Downloads\logo.png" height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - DHANUSH GR(212221040038)</b></caption>
+<caption><b>SLOT TIME TABLE - DANUSH s(212221040033)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
