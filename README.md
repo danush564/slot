@@ -115,7 +115,8 @@ Execute the program using runserver command.
      </tr>
   
 ## OUTPUT
-![Screenshot 2023-10-07 093850](https://github.com/danush564/slot/assets/98585166/a3f2caa3-7665-4545-8c46-843fb9c233c6)
+![Screenshot (397)](https://github.com/danush564/slot/assets/98585166/1978f4fc-502e-4f42-b371-0b5d6e492633)
+
 
 
 ## RESULT
