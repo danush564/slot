@@ -30,7 +30,7 @@ Execute the program using runserver command.
               </head>
               <body>
               <center>
-              <img src="c:\Users\Danush S\Downloads\logo.png" height="100" width="540">
+              <img src="http://training.saveetha.in/pluginfile.php/1/core_admin/logo/0x150/1623542614/logo_1.png" height="100" width="540">
               </center>
               <br>
               <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
@@ -111,7 +111,8 @@ Execute the program using runserver command.
               </tr>
 
 ## OUTPUT
-![Screenshot (400)](https://github.com/danush564/slot/assets/98585166/06844c4d-913a-4777-ba75-490c469ba84c)
+![Screenshot (402)](https://github.com/danush564/slot/assets/98585166/32bbde9f-03d1-44ce-97e6-193f4f1a89b4)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
